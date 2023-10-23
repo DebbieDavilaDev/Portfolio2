@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+
+header{
+    background-color:khaki;
+    font-size: 2rem;
+    border: 25px dotted pink
+}
+
+section{
+    padding: 1;
+    margin: 2px;
+}
+
+.about{
+    border: 15px groove pink;
+    background-color: aquamarine;
+}
+
+.projects{
+    border: 15px dashed lavender;
+    background-color: aliceblue;
+}
+
+.contact{
+    border: 15px inset lightblue;
+    background-color: lightpink;
+
+}
+
+#projects_list{
+    background-color: :aliceblue;
+    font-size: 1.3rem;
+    list-style-type: style type disc;
+}
+
+#placeholder{
+    width:auto;
+    height:auto;
+}
